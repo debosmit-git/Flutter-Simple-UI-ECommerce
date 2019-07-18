@@ -9,7 +9,7 @@ Tasarım - https://dribbble.com/shots/5579955-E-Comm-Adobe-XD-UI-Kit
 <kbd>
 <video width="250" height="450" controls>
   <source src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/ssvideo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
+  No video
 </video></kbd>   <kbd>
 <img src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/ECommerce1.jpg" width="250" /></kbd>    <kbd>
 <img src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/ECommerce2.jpg" width="250" /></kbd>    <kbd>
