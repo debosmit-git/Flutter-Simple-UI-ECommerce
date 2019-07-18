@@ -1,16 +1,19 @@
-# flutter_eticaret
+# Flutter-Simple-UI-ECommerce
 
-A new Flutter application.
+Flutter ile hazırlanmış E-Ticaret uygulaması tasarımıdır.
 
-## Getting Started
+Tasarım - https://dribbble.com/shots/5579955-E-Comm-Adobe-XD-UI-Kit
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+<kbd>
+<video width="250" height="450" controls>
+  <source src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/ssvideo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+<img src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/gif1.gif" width="250" /></kbd>   <kbd>
+<img src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/ECommerce1.jpg" width="250" /></kbd>    <kbd>
+<img src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/ECommerce2.jpg" width="250" /></kbd>    <kbd>
+<img src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/ECommerce3.jpg" width="250" /></kbd>    <kbd>
+<img src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/ECommerce4.jpg" width="250" /></kbd>    <kbd>
+<img src="https://raw.githubusercontent.com/ahmeteminkara/Flutter-Simple-UI-ECommerce/master/media/ECommerce5.jpg" width="250" /></kbd>
