@@ -11,11 +11,11 @@ class _PageGetStaredState extends State<PageGetStared>
   TabController tabController;
 
   TextEditingController signUpEmail =
-      new TextEditingController(text: "ahmeteminkara@github.com");
+      new TextEditingController(text: "deb@fwear.in");
   TextEditingController signUpUsername =
-      new TextEditingController(text: "ahmeteminkara");
+      new TextEditingController(text: "debmaj2");
   TextEditingController signUpPass =
-      new TextEditingController(text: "ahmeteminkara");
+      new TextEditingController(text: "debmaj2");
 
   @override
   void initState() {
@@ -129,7 +129,7 @@ class _PageGetStaredState extends State<PageGetStared>
                   children: <Widget>[
                     Expanded(
                         child: Text(
-                      "SING UP",
+                      "SIGN UP",
                       textAlign: TextAlign.center,
                       style: TextStyle(
                           color: Colors.white,
